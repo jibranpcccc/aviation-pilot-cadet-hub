@@ -1,16 +1,16 @@
 [
   {
     "id": "aviation-pilot-cadet-hub-reddit-20260915-1",
-    "title": "r/webdev Builders Hub",
+    "title": "r/flying Student & Commercial Aviators",
     "platform": "Reddit",
-    "category": "Web Development",
-    "memberCount": "2,200,000+ members",
-    "description": "A community dedicated to all things web development, client and server-side architectures, and UI/UX design.",
-    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "category": "Aviation Training",
+    "memberCount": "345,000+ members",
+    "description": "The central subreddit for student pilots, CFIs, and ATP captains discussing checkrides, FAA part 141/61 syllabus, aircraft systems, and weather theory.",
+    "joinUrl": "https://www.reddit.com/r/flying/",
     "tags": [
-      "webdev",
-      "fullstack",
-      "frontend",
+      "aviation",
+      "pilot",
+      "flight-training",
       "reddit"
     ],
     "verified": true,
