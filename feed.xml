@@ -4,10 +4,17 @@
     <title>Aviation Students &amp; Pilot Cadets Hub</title>
     <link>https://jibranpcccc.github.io/aviation-pilot-cadet-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:01:26 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/aviation-pilot-cadet-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/science Academic Research (Reddit)</title>
+      <link>https://www.reddit.com/r/science/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/aviation-pilot-cadet-hub/#aviation-pilot-cadet-hub-reddit-20261010-1-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 06:01:26 GMT</pubDate>
+      <description>Newly verified community added to Aviation Students &amp; Pilot Cadets Hub: Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/technology World News (Reddit)</title>
       <link>https://www.reddit.com/r/technology/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/aviation-pilot-cadet-hub/#aviation-pilot-cadet-hub-reddit-20261009-1-2026-10-09</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/aviation-pilot-cadet-hub/#aviation-pilot-cadet-hub-discord-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 08:30:32 GMT</pubDate>
       <description>Newly verified community added to Aviation Students &amp; Pilot Cadets Hub: Real-time Go developers server offering technical support, library showcase, and distributed systems discussions.</description>
-    </item>
-<item>
-      <title>Aviation Students &amp; Pilot Cadets Hub Initial Release</title>
-      <link>https://jibranpcccc.github.io/aviation-pilot-cadet-hub/</link>
-      <pubDate>Mon, 07 Sep 2026 12:20:48 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
